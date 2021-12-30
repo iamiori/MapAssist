@@ -1,0 +1,3178 @@
+{
+  "Cap": {
+    "Class": "normal",
+    "CN": "帽子",
+    "Type": "Helm",
+    "Code": "cap"
+  },
+  "War Hat": {
+    "Class": "exceptional",
+    "CN": "战帽",
+    "Type": "Helm",
+    "Code": "xap"
+  },
+  "Shako": {
+    "Class": "elite",
+    "CN": "军帽",
+    "Type": "Helm",
+    "Code": "uap"
+  },
+  "Skull Cap": {
+    "Class": "normal",
+    "CN": "骷髅帽",
+    "Type": "Helm",
+    "Code": "skp"
+  },
+  "Sallet": {
+    "Class": "exceptional",
+    "CN": "輕便頭盔",
+    "Type": "Helm",
+    "Code": "xkp"
+  },
+  "Hydraskull": {
+    "Class": "elite",
+    "CN": "九头蛇头盖骨圆帽",
+    "Type": "Helm",
+    "Code": "ukp"
+  },
+  "Helm": {
+    "Class": "normal",
+    "CN": "头盔",
+    "Type": "Helm",
+    "Code": "hlm"
+  },
+  "Casque": {
+    "Class": "exceptional",
+    "CN": "無頰頭盔",
+    "Type": "Helm",
+    "Code": "xlm"
+  },
+  "Armet": {
+    "Class": "elite",
+    "CN": "活动头盔",
+    "Type": "Helm",
+    "Code": "ulm"
+  },
+  "Full Helm": {
+    "Class": "normal",
+    "CN": "高级头盔",
+    "Type": "Helm",
+    "Code": "fhl"
+  },
+  "Basinet": {
+    "Class": "exceptional",
+    "CN": "轻钢盔",
+    "Type": "Helm",
+    "Code": "xhl"
+  },
+  "Giant Conch": {
+    "Class": "elite",
+    "CN": "巨贝头盔",
+    "Type": "Helm",
+    "Code": "uhl"
+  },
+  "Great Helm": {
+    "Class": "normal",
+    "CN": "卓越头盔",
+    "Type": "Helm",
+    "Code": "ghm"
+  },
+  "Winged Helm": {
+    "Class": "exceptional",
+    "CN": "翼盔",
+    "Type": "Helm",
+    "Code": "xhm"
+  },
+  "Spired Helm": {
+    "Class": "elite",
+    "CN": "螺旋頭盔",
+    "Type": "Helm",
+    "Code": "uhm"
+  },
+  "Crown": {
+    "Class": "normal",
+    "CN": "皇冠",
+    "Type": "Helm",
+    "Code": "crn"
+  },
+  "Grand Crown": {
+    "Class": "exceptional",
+    "CN": "巨皇冠",
+    "Type": "Helm",
+    "Code": "xrn"
+  },
+  "Corona": {
+    "Class": "elite",
+    "CN": "头冠",
+    "Type": "Helm",
+    "Code": "urn"
+  },
+  "Mask": {
+    "Class": "normal",
+    "CN": "面具",
+    "Type": "Helm",
+    "Code": "msk"
+  },
+  "Death Mask": {
+    "Class": "exceptional",
+    "CN": "死亡面具",
+    "Type": "Helm",
+    "Code": "xsk"
+  },
+  "Demonhead": {
+    "Class": "elite",
+    "CN": "恶魔头盖骨面具",
+    "Type": "Helm",
+    "Code": "usk"
+  },
+  "Bone Helm": {
+    "Class": "normal",
+    "CN": "白骨头盔",
+    "Type": "Helm",
+    "Code": "bhm"
+  },
+  "Grim Helm": {
+    "Class": "exceptional",
+    "CN": "残酷头盔",
+    "Type": "Helm",
+    "Code": "xh9"
+  },
+  "Bone Visage": {
+    "Class": "elite",
+    "CN": "骸骨面罩",
+    "Type": "Helm",
+    "Code": "uh9"
+  },
+
+  "Quilted Armor": {
+    "Class": "normal",
+    "CN": "布甲",
+    "Type": "Armor",
+    "Code": "qui"
+  },
+  "Ghost Armor": {
+    "Class": "exceptional",
+    "CN": "鬼魂戰甲",
+    "Type": "Armor",
+    "Code": "xui"
+  },
+  "Dusk Shroud": {
+    "Class": "elite",
+    "CN": "灰暮寿衣",
+    "Type": "Armor",
+    "Code": "uui"
+  },
+  "Leather Armor": {
+    "Class": "normal",
+    "CN": "皮甲",
+    "Type": "Armor",
+    "Code": "lea"
+  },
+  "Serpentskin Armor": {
+    "Class": "exceptional",
+    "CN": "海蛇皮甲",
+    "Type": "Armor",
+    "Code": "xea"
+  },
+  "Wyrmhide": {
+    "Class": "elite",
+    "CN": "古龙皮",
+    "Type": "Armor",
+    "Code": "uea"
+  },
+  "Hard Leather Armor": {
+    "Class": "normal",
+    "CN": "硬皮甲",
+    "Type": "Armor",
+    "Code": "hla"
+  },
+  "Demonhide Armor": {
+    "Class": "exceptional",
+    "CN": "魔皮戰甲",
+    "Type": "Armor",
+    "Code": "xla"
+  },
+  "Scarab Husk": {
+    "Class": "elite",
+    "CN": "圣甲虫壳皮甲",
+    "Type": "Armor",
+    "Code": "ula"
+  },
+  "Studded Leather": {
+    "Class": "normal",
+    "CN": "镶嵌甲",
+    "Type": "Armor",
+    "Code": "stu"
+  },
+  "Trellised Armor": {
+    "Class": "exceptional",
+    "CN": "盘绕战甲",
+    "Type": "Armor",
+    "Code": "xtu"
+  },
+  "Wire Fleece": {
+    "Class": "elite",
+    "CN": "線羊毛皮甲",
+    "Type": "Armor",
+    "Code": "utu"
+  },
+  "Ring Mail": {
+    "Class": "normal",
+    "CN": "锁环甲",
+    "Type": "Armor",
+    "Code": "rng"
+  },
+  "Linked Mail": {
+    "Class": "exceptional",
+    "CN": "連扣戰甲",
+    "Type": "Armor",
+    "Code": "xng"
+  },
+  "Diamond Mail": {
+    "Class": "elite",
+    "CN": "钻石锁子甲",
+    "Type": "Armor",
+    "Code": "ung"
+  },
+  "Scale Mail": {
+    "Class": "normal",
+    "CN": "鳞甲",
+    "Type": "Armor",
+    "Code": "scl"
+  },
+  "Tigulated Mail": {
+    "Class": "exceptional",
+    "CN": "提格萊特戰甲",
+    "Type": "Armor",
+    "Code": "xcl"
+  },
+  "Loricated Mail": {
+    "Class": "elite",
+    "CN": "甲壳铠鳞甲",
+    "Type": "Armor",
+    "Code": "ucl"
+  },
+  "Chain Mail": {
+    "Class": "normal",
+    "CN": "锁子甲",
+    "Type": "Armor",
+    "Code": "chn"
+  },
+  "Mesh Armor": {
+    "Class": "exceptional",
+    "CN": "織網戰甲",
+    "Type": "Armor",
+    "Code": "xhn"
+  },
+  "Boneweave": {
+    "Class": "elite",
+    "CN": "骸骨链甲",
+    "Type": "Armor",
+    "Code": "uhn"
+  },
+  "Breast Plate": {
+    "Class": "normal",
+    "CN": "胸甲",
+    "Type": "Armor",
+    "Code": "brs"
+  },
+  "Cuirass": {
+    "Class": "exceptional",
+    "CN": "護胸甲",
+    "Type": "Armor",
+    "Code": "xrs"
+  },
+  "Great Hauberk": {
+    "Class": "elite",
+    "CN": "巨型鳞铠胸甲",
+    "Type": "Armor",
+    "Code": "urs"
+  },
+  "Splint Mail": {
+    "Class": "normal",
+    "CN": "板甲",
+    "Type": "Armor",
+    "Code": "spl"
+  },
+  "Russet Armor": {
+    "Class": "exceptional",
+    "CN": "罗瑟战甲",
+    "Type": "Armor",
+    "Code": "xpl"
+  },
+  "Balrog Skin": {
+    "Class": "elite",
+    "CN": "炎魔皮板甲",
+    "Type": "Armor",
+    "Code": "upl"
+  },
+  "Plate Mail": {
+    "Class": "normal",
+    "CN": "铠甲",
+    "Type": "Armor",
+    "Code": "plt"
+  },
+  "Templar Coat": {
+    "Class": "exceptional",
+    "CN": "聖堂武士外袍",
+    "Type": "Armor",
+    "Code": "xlt"
+  },
+  "Hellforge Plate": {
+    "Class": "elite",
+    "CN": "地狱锻甲",
+    "Type": "Armor",
+    "Code": "ult"
+  },
+  "Field Plate": {
+    "Class": "normal",
+    "CN": "实战铠甲",
+    "Type": "Armor",
+    "Code": "fld"
+  },
+  "Sharktooth Armor": {
+    "Class": "exceptional",
+    "CN": "鲨齿战甲",
+    "Type": "Armor",
+    "Code": "xld"
+  },
+  "Kraken Shell": {
+    "Class": "elite",
+    "CN": "海妖壳甲",
+    "Type": "Armor",
+    "Code": "uld"
+  },
+  "Gothic Plate": {
+    "Class": "normal",
+    "CN": "哥德战甲",
+    "Type": "Armor",
+    "Code": "gth"
+  },
+  "Embossed Plate": {
+    "Class": "exceptional",
+    "CN": "凸纹战甲",
+    "Type": "Armor",
+    "Code": "xth"
+  },
+  "Lacquered Plate": {
+    "Class": "elite",
+    "CN": "漆甲",
+    "Type": "Armor",
+    "Code": "uth"
+  },
+  "Full Plate Mail": {
+    "Class": "normal",
+    "CN": "高级战甲",
+    "Type": "Armor",
+    "Code": "ful"
+  },
+  "Chaos Armor": {
+    "Class": "exceptional",
+    "CN": "混沌战甲",
+    "Type": "Armor",
+    "Code": "xul"
+  },
+  "Shadow Plate": {
+    "Class": "elite",
+    "CN": "阴影铠甲",
+    "Type": "Armor",
+    "Code": "uul"
+  },
+  "Ancient Armor": {
+    "Class": "normal",
+    "CN": "古代装甲",
+    "Type": "Armor",
+    "Code": "aar"
+  },
+  "Ornate Armor": {
+    "Class": "exceptional",
+    "CN": "华丽战甲",
+    "Type": "Armor",
+    "Code": "xar"
+  },
+  "Sacred Armor": {
+    "Class": "elite",
+    "CN": "神圣盔甲",
+    "Type": "Armor",
+    "Code": "uar"
+  },
+  "Light Plate": {
+    "Class": "normal",
+    "CN": "轻型装甲",
+    "Type": "Armor",
+    "Code": "ltp"
+  },
+  "Mage Plate": {
+    "Class": "exceptional",
+    "CN": "法師鎧甲",
+    "Type": "Armor",
+    "Code": "xtp"
+  },
+  "Archon Plate": {
+    "Class": "elite",
+    "CN": "执政官铠甲",
+    "Type": "Armor",
+    "Code": "utp"
+  },
+
+  "Buckler": {
+    "Class": "normal",
+    "CN": "圆盾",
+    "Type": "Shield",
+    "Code": "buc"
+  },
+  "Defender": {
+    "Class": "exceptional",
+    "CN": "防御盾",
+    "Type": "Shield",
+    "Code": "xuc"
+  },
+  "Heater": {
+    "Class": "elite",
+    "CN": "防寒圆盾",
+    "Type": "Shield",
+    "Code": "uuc"
+  },
+  "Small Shield": {
+    "Class": "normal",
+    "CN": "小盾牌",
+    "Type": "Shield",
+    "Code": "sml"
+  },
+  "Round Shield": {
+    "Class": "exceptional",
+    "CN": "圆型盾",
+    "Type": "Shield",
+    "Code": "xml"
+  },
+  "Luna": {
+    "Class": "elite",
+    "CN": "月精靈護盾",
+    "Type": "Shield",
+    "Code": "uml"
+  },
+  "Large Shield": {
+    "Class": "normal",
+    "CN": "大盾牌",
+    "Type": "Shield",
+    "Code": "lrg"
+  },
+  "Scutum": {
+    "Class": "exceptional",
+    "CN": "鳞盾",
+    "Type": "Shield",
+    "Code": "xrg"
+  },
+  "Hyperion": {
+    "Class": "elite",
+    "CN": "亥伯龙盾",
+    "Type": "Shield",
+    "Code": "urg"
+  },
+  "Kite Shield": {
+    "Class": "normal",
+    "CN": "轻盾",
+    "Type": "Shield",
+    "Code": "kit"
+  },
+  "Dragon Shield": {
+    "Class": "exceptional",
+    "CN": "龙盾",
+    "Type": "Shield",
+    "Code": "xit"
+  },
+  "Monarch": {
+    "Class": "elite",
+    "CN": "統治者大盾",
+    "Type": "Shield",
+    "Code": "uit"
+  },
+  "Tower Shield": {
+    "Class": "normal",
+    "CN": "塔盾",
+    "Type": "Shield",
+    "Code": "tow"
+  },
+  "Pavise": {
+    "Class": "exceptional",
+    "CN": "大盾",
+    "Type": "Shield",
+    "Code": "xow"
+  },
+  "Aegis": {
+    "Class": "elite",
+    "CN": "塔盾",
+    "Type": "Shield",
+    "Code": "uow"
+  },
+  "Gothic Shield": {
+    "Class": "normal",
+    "CN": "哥德盾牌",
+    "Type": "Shield",
+    "Code": "gts"
+  },
+  "Ancient Shield": {
+    "Class": "exceptional",
+    "CN": "古代之盾",
+    "Type": "Shield",
+    "Code": "xts"
+  },
+  "Ward": {
+    "Class": "elite",
+    "CN": "保护盾牌",
+    "Type": "Shield",
+    "Code": "uts"
+  },
+  "Bone Shield": {
+    "Class": "normal",
+    "CN": "白骨盾牌",
+    "Type": "Shield",
+    "Code": "bsh"
+  },
+  "Grim Shield": {
+    "Class": "exceptional",
+    "CN": "冷酷之盾",
+    "Type": "Shield",
+    "Code": "xsh"
+  },
+  "Troll Nest": {
+    "Class": "elite",
+    "CN": "洞穴巨魔巢穴骨盾",
+    "Type": "Shield",
+    "Code": "ush"
+  },
+  "Spiked Shield": {
+    "Class": "normal",
+    "CN": "尖刺盾牌",
+    "Type": "Shield",
+    "Code": "spk"
+  },
+  "Barbed Shield": {
+    "Class": "exceptional",
+    "CN": "倒刺护盾",
+    "Type": "Shield",
+    "Code": "xpk"
+  },
+  "Blade Barrier": {
+    "Class": "elite",
+    "CN": "刀刃刺盾",
+    "Type": "Shield",
+    "Code": "upk"
+  },
+
+  "Leather Gloves": {
+    "Class": "normal",
+    "CN": "皮手套",
+    "Type": "Gloves",
+    "Code": "lgl"
+  },
+  "Demonhide Gloves": {
+    "Class": "exceptional",
+    "CN": "魔皮手套",
+    "Type": "Gloves",
+    "Code": "xlg"
+  },
+  "Bramble Mitts": {
+    "Class": "elite",
+    "CN": "荆棘连指手套",
+    "Type": "Gloves",
+    "Code": "ulg"
+  },
+  "Heavy Gloves": {
+    "Class": "normal",
+    "CN": "重手套",
+    "Type": "Gloves",
+    "Code": "vgl"
+  },
+  "Sharkskin Gloves": {
+    "Class": "exceptional",
+    "CN": "鲨皮手套",
+    "Type": "Gloves",
+    "Code": "xvg"
+  },
+  "Vampirebone Gloves": {
+    "Class": "elite",
+    "CN": "吸血鬼骸骨手套",
+    "Type": "Gloves",
+    "Code": "uvg"
+  },
+  "Chain Gloves": {
+    "Class": "normal",
+    "CN": "锁链手套",
+    "Type": "Gloves",
+    "Code": "mgl"
+  },
+  "Heavy Bracers": {
+    "Class": "exceptional",
+    "CN": "重型手镯",
+    "Type": "Gloves",
+    "Code": "xmg"
+  },
+  "Vambraces": {
+    "Class": "elite",
+    "CN": "吸血鬼手套",
+    "Type": "Gloves",
+    "Code": "umg"
+  },
+  "Light Gauntlets": {
+    "Class": "normal",
+    "CN": "轻型铁手套",
+    "Type": "Gloves",
+    "Code": "tgl"
+  },
+  "Battle Gauntlets": {
+    "Class": "exceptional",
+    "CN": "战场手套",
+    "Type": "Gloves",
+    "Code": "xtg"
+  },
+  "Crusader Gauntlets": {
+    "Class": "elite",
+    "CN": "十字军铁手套",
+    "Type": "Gloves",
+    "Code": "utg"
+  },
+  "Gauntlets": {
+    "Class": "normal",
+    "CN": "铁手套",
+    "Type": "Gloves",
+    "Code": "hgl"
+  },
+  "War Gauntlets": {
+    "Class": "exceptional",
+    "CN": "巨战手套",
+    "Type": "Gloves",
+    "Code": "xhg"
+  },
+  "Ogre Gauntlets": {
+    "Class": "elite",
+    "CN": "食人魔铁手套",
+    "Type": "Gloves",
+    "Code": "uhg"
+  },
+
+  "Boots": {
+    "Class": "normal",
+    "CN": "皮靴",
+    "Type": "Boots",
+    "Code": "lbt"
+  },
+  "Demonhide Boots": {
+    "Class": "exceptional",
+    "CN": "魔皮靴",
+    "Type": "Boots",
+    "Code": "xlb"
+  },
+  "Wyrmhide Boots": {
+    "Class": "elite",
+    "CN": "飞龙皮靴",
+    "Type": "Boots",
+    "Code": "ulb"
+  },
+  "Heavy Boots": {
+    "Class": "normal",
+    "CN": "重靴",
+    "Type": "Boots",
+    "Code": "vbt"
+  },
+  "Sharkskin Boots": {
+    "Class": "exceptional",
+    "CN": "鯊皮之靴",
+    "Type": "Boots",
+    "Code": "xvb"
+  },
+  "Scarabshell Boots": {
+    "Class": "elite",
+    "CN": "圣甲虫壳靴",
+    "Type": "Boots",
+    "Code": "uvb"
+  },
+  "Chain Boots": {
+    "Class": "normal",
+    "CN": "锁链靴",
+    "Type": "Boots",
+    "Code": "mbt"
+  },
+  "Mesh Boots": {
+    "Class": "exceptional",
+    "CN": "織網之靴",
+    "Type": "Boots",
+    "Code": "xmb"
+  },
+  "Boneweave Boots": {
+    "Class": "elite",
+    "CN": "骸骨靴",
+    "Type": "Boots",
+    "Code": "umb"
+  },
+  "Light Plated Boots": {
+    "Class": "normal",
+    "CN": "轻型金属靴",
+    "Type": "Boots",
+    "Code": "tbt"
+  },
+  "Battle Boots": {
+    "Class": "exceptional",
+    "CN": "戰場之靴",
+    "Type": "Boots",
+    "Code": "xtb"
+  },
+  "Mirrored Boots": {
+    "Class": "elite",
+    "CN": "镜化靴",
+    "Type": "Boots",
+    "Code": "utb"
+  },
+  "Greaves": {
+    "Class": "normal",
+    "CN": "护胫",
+    "Type": "Boots",
+    "Code": "hbt"
+  },
+  "War Boots": {
+    "Class": "exceptional",
+    "CN": "巨戰之靴",
+    "Type": "Boots",
+    "Code": "xhb"
+  },
+  "Myrmidon Greaves": {
+    "Class": "elite",
+    "CN": "急速靴",
+    "Type": "Boots",
+    "Code": "uhb"
+  },
+
+  "Sash": {
+    "Class": "normal",
+    "CN": "饰带",
+    "Type": "Belt",
+    "Code": "lbl"
+  },
+  "Demonhide Sash": {
+    "Class": "exceptional",
+    "CN": "魔皮勳帶",
+    "Type": "Belt",
+    "Code": "zlb"
+  },
+  "Spiderweb Sash": {
+    "Class": "elite",
+    "CN": "蛛网腰带",
+    "Type": "Belt",
+    "Code": "ulc"
+  },
+  "Light Belt": {
+    "Class": "normal",
+    "CN": "轻扣带",
+    "Type": "Belt",
+    "Code": "vbl"
+  },
+  "Sharkskin Belt": {
+    "Class": "exceptional",
+    "CN": "鲨皮腰带",
+    "Type": "Belt",
+    "Code": "zvb"
+  },
+  "Vampirefang Belt": {
+    "Class": "elite",
+    "CN": "吸血鬼燎牙腰帶",
+    "Type": "Belt",
+    "Code": "uvc"
+  },
+  "Belt": {
+    "Class": "normal",
+    "CN": "扣带",
+    "Type": "Belt",
+    "Code": "mbl"
+  },
+  "Mesh Belt": {
+    "Class": "exceptional",
+    "CN": "织网腰带",
+    "Type": "Belt",
+    "Code": "zmb"
+  },
+  "Mithril Coil": {
+    "Class": "elite",
+    "CN": "秘银腰带",
+    "Type": "Belt",
+    "Code": "umc"
+  },
+  "Heavy Belt": {
+    "Class": "normal",
+    "CN": "重扣带",
+    "Type": "Belt",
+    "Code": "tbl"
+  },
+  "Battle Belt": {
+    "Class": "exceptional",
+    "CN": "戰場腰帶",
+    "Type": "Belt",
+    "Code": "ztb"
+  },
+  "Troll Belt": {
+    "Class": "elite",
+    "CN": "洞穴巨魔腰带",
+    "Type": "Belt",
+    "Code": "utc"
+  },
+  "Plated Belt": {
+    "Class": "normal",
+    "CN": "金属扣带",
+    "Type": "Belt",
+    "Code": "hbl"
+  },
+  "War Belt": {
+    "Class": "exceptional",
+    "CN": "巨戰腰帶",
+    "Type": "Belt",
+    "Code": "zhb"
+  },
+  "Colossus Girdle": {
+    "Class": "elite",
+    "CN": "巨神腰带",
+    "Type": "Belt",
+    "Code": "uhc"
+  },
+
+  "Wolf Head": {
+    "Class": "normal",
+    "CN": "狼头",
+    "Type": "Druid Pelts",
+    "Code": "dr1"
+  },
+  "Alpha Helm": {
+    "Class": "exceptional",
+    "CN": "阿尔发头盔",
+    "Type": "Druid Pelts",
+    "Code": "dr6"
+  },
+  "Blood Spirit": {
+    "Class": "elite",
+    "CN": "血腥之灵",
+    "Type": "Druid Pelts",
+    "Code": "drb"
+  },
+  "Hawk Helm": {
+    "Class": "normal",
+    "CN": "飞鹰头盔",
+    "Type": "Druid Pelts",
+    "Code": "dr2"
+  },
+  "Griffon Headress": {
+    "Class": "exceptional",
+    "CN": "狮鹫兽头盔",
+    "Type": "Druid Pelts",
+    "Code": "dr7"
+  },
+  "Sun Spirit": {
+    "Class": "elite",
+    "CN": "太阳之灵",
+    "Type": "Druid Pelts",
+    "Code": "drc"
+  },
+  "Antlers": {
+    "Class": "normal",
+    "CN": "鹿角",
+    "Type": "Druid Pelts",
+    "Code": "dr3"
+  },
+  "Hunter's Guise": {
+    "Class": "exceptional",
+    "CN": "猎人的伪装",
+    "Type": "Druid Pelts",
+    "Code": "dr8"
+  },
+  "Earth Spirit": {
+    "Class": "elite",
+    "CN": "大地之灵",
+    "Type": "Druid Pelts",
+    "Code": "drd"
+  },
+  "Falcon Mask": {
+    "Class": "normal",
+    "CN": "猎鹰面具",
+    "Type": "Druid Pelts",
+    "Code": "dr4"
+  },
+  "Sacred Feathers": {
+    "Class": "exceptional",
+    "CN": "神圣羽毛",
+    "Type": "Druid Pelts",
+    "Code": "dr9"
+  },
+  "Sky Spirit": {
+    "Class": "elite",
+    "CN": "天空之灵",
+    "Type": "Druid Pelts",
+    "Code": "dre"
+  },
+  "Spirit Mask": {
+    "Class": "normal",
+    "CN": "灵魂狼头面具",
+    "Type": "Druid Pelts",
+    "Code": "dr5"
+  },
+  "Totemic Mask": {
+    "Class": "exceptional",
+    "CN": "图腾面具狼盔",
+    "Type": "Druid Pelts",
+    "Code": "dra"
+  },
+  "Dream Spirit": {
+    "Class": "elite",
+    "CN": "幽梦之灵",
+    "Type": "Druid Pelts",
+    "Code": "drf"
+  },
+
+  "Jawbone Cap": {
+    "Class": "normal",
+    "CN": "颚骨帽",
+    "Type": "Barbarian Helms",
+    "Code": "ba1"
+  },
+  "Jawbone Visor": {
+    "Class": "exceptional",
+    "CN": "颚骨面甲",
+    "Type": "Barbarian Helms",
+    "Code": "ba6"
+  },
+  "Carnage Helm": {
+    "Class": "elite",
+    "CN": "屠杀头盔",
+    "Type": "Barbarian Helms",
+    "Code": "bab"
+  },
+  "Fanged Helm": {
+    "Class": "normal",
+    "CN": "尖牙盔",
+    "Type": "Barbarian Helms",
+    "Code": "ba2"
+  },
+  "Lion Helm": {
+    "Class": "exceptional",
+    "CN": "狮头尖盔",
+    "Type": "Barbarian Helms",
+    "Code": "ba7"
+  },
+  "Fury Visor": {
+    "Class": "elite",
+    "CN": "暴怒面甲",
+    "Type": "Barbarian Helms",
+    "Code": "bac"
+  },
+  "Horned Helm": {
+    "Class": "normal",
+    "CN": "角盔",
+    "Type": "Barbarian Helms",
+    "Code": "ba3"
+  },
+  "Rage Mask": {
+    "Class": "exceptional",
+    "CN": "狂怒面具刺盔",
+    "Type": "Barbarian Helms",
+    "Code": "ba8"
+  },
+  "Destroyer Helm": {
+    "Class": "elite",
+    "CN": "毁灭者头盔",
+    "Type": "Barbarian Helms",
+    "Code": "bad"
+  },
+  "Assault Helmet": {
+    "Class": "normal",
+    "CN": "突击盔",
+    "Type": "Barbarian Helms",
+    "Code": "ba4"
+  },
+  "Savage Helmet": {
+    "Class": "exceptional",
+    "CN": "蛮族头盔",
+    "Type": "Barbarian Helms",
+    "Code": "ba9"
+  },
+  "Conqueror Crown": {
+    "Class": "elite",
+    "CN": "征服者皇冠面甲",
+    "Type": "Barbarian Helms",
+    "Code": "bae"
+  },
+  "Avenger Guard": {
+    "Class": "normal",
+    "CN": "复仇者之盔",
+    "Type": "Barbarian Helms",
+    "Code": "ba5"
+  },
+  "Slayer Guard": {
+    "Class": "exceptional",
+    "CN": "杀手防护面甲",
+    "Type": "Barbarian Helms",
+    "Code": "baa"
+  },
+  "Guardian Crown": {
+    "Class": "elite",
+    "CN": "守护者皇冠面甲",
+    "Type": "Barbarian Helms",
+    "Code": "baf"
+  },
+
+  "Targe": {
+    "Class": "normal",
+    "CN": "小盾",
+    "Type": "Paladin Shields",
+    "Code": "pa1"
+  },
+  "Akaran Targe": {
+    "Class": "exceptional",
+    "CN": "亚克南圆盾",
+    "Type": "Paladin Shields",
+    "Code": "pa6"
+  },
+  "Sacred Targe": {
+    "Class": "elite",
+    "CN": "神圣小盾",
+    "Type": "Paladin Shields",
+    "Code": "pab"
+  },
+  "Rondache": {
+    "Class": "normal",
+    "CN": "轻圆盾",
+    "Type": "Paladin Shields",
+    "Code": "pa2"
+  },
+  "Akaran Rondache": {
+    "Class": "exceptional",
+    "CN": "亚克南轻圆盾",
+    "Type": "Paladin Shields",
+    "Code": "pa7"
+  },
+  "Sacred Rondache": {
+    "Class": "elite",
+    "CN": "神圣轻圆盾",
+    "Type": "Paladin Shields",
+    "Code": "pac"
+  },
+  "Heraldic Shield": {
+    "Class": "normal",
+    "CN": "纹章盾",
+    "Type": "Paladin Shields",
+    "Code": "pa3"
+  },
+  "Protector Shield": {
+    "Class": "exceptional",
+    "CN": "防守者盾牌",
+    "Type": "Paladin Shields",
+    "Code": "pa8"
+  },
+  "Kurast Shield": {
+    "Class": "elite",
+    "CN": "库拉斯特之盾",
+    "Type": "Paladin Shields",
+    "Code": "pad"
+  },
+  "Aerin Shield": {
+    "Class": "normal",
+    "CN": "艾文之盾",
+    "Type": "Paladin Shields",
+    "Code": "pa4"
+  },
+  "Gilded Shield": {
+    "Class": "exceptional",
+    "CN": "饰金盾牌",
+    "Type": "Paladin Shields",
+    "Code": "pa9"
+  },
+  "Zakarum Shield": {
+    "Class": "elite",
+    "CN": "撒卡兰坶盾牌",
+    "Type": "Paladin Shields",
+    "Code": "pae"
+  },
+  "Crown Shield": {
+    "Class": "normal",
+    "CN": "皇冠之盾",
+    "Type": "Paladin Shields",
+    "Code": "pa5"
+  },
+  "Royal Shield": {
+    "Class": "exceptional",
+    "CN": "皇家盾牌",
+    "Type": "Paladin Shields",
+    "Code": "paa"
+  },
+  "Vortex Shield": {
+    "Class": "elite",
+    "CN": "旋风盾",
+    "Type": "Paladin Shields",
+    "Code": "paf"
+  },
+
+  "Preserved Head": {
+    "Class": "normal",
+    "CN": "防腐之首",
+    "Type": "Necromancer Heads",
+    "Code": "ne1"
+  },
+  "Mummified Trophy": {
+    "Class": "exceptional",
+    "CN": "木乃伊印记",
+    "Type": "Necromancer Heads",
+    "Code": "ne6"
+  },
+  "Minion Skull": {
+    "Class": "elite",
+    "CN": "随待之骨",
+    "Type": "Necromancer Heads",
+    "Code": "neb"
+  },
+  "Zombie Head": {
+    "Class": "normal",
+    "CN": "僵尸之首",
+    "Type": "Necromancer Heads",
+    "Code": "ne2"
+  },
+  "Fetish Trophy": {
+    "Class": "exceptional",
+    "CN": "物神印记",
+    "Type": "Necromancer Heads",
+    "Code": "ne7"
+  },
+  "Hellspawn Skull": {
+    "Class": "elite",
+    "CN": "地狱爪之骨",
+    "Type": "Necromancer Heads",
+    "Code": "nec"
+  },
+  "Unraveller Head": {
+    "Class": "normal",
+    "CN": "揭露者之首",
+    "Type": "Necromancer Heads",
+    "Code": "ne3"
+  },
+  "Sexton Trophy": {
+    "Class": "exceptional",
+    "CN": "司事印记",
+    "Type": "Necromancer Heads",
+    "Code": "ne8"
+  },
+  "Overseer Skull": {
+    "Class": "elite",
+    "CN": "监视者之骨",
+    "Type": "Necromancer Heads",
+    "Code": "ned"
+  },
+  "Gargoyle Head": {
+    "Class": "normal",
+    "CN": "石像鬼之首",
+    "Type": "Necromancer Heads",
+    "Code": "ne4"
+  },
+  "Cantor Trophy": {
+    "Class": "exceptional",
+    "CN": "领唱者印记",
+    "Type": "Necromancer Heads",
+    "Code": "ne9"
+  },
+  "Succubus Skull": {
+    "Class": "elite",
+    "CN": "女妖之骨",
+    "Type": "Necromancer Heads",
+    "Code": "nee"
+  },
+  "Demon Head": {
+    "Class": "normal",
+    "CN": "恶魔之首",
+    "Type": "Necromancer Heads",
+    "Code": "ne5"
+  },
+  "Heirophant Trophy": {
+    "Class": "exceptional",
+    "CN": "祭司印记",
+    "Type": "Necromancer Heads",
+    "Code": "nea"
+  },
+  "Bloodlord Skull": {
+    "Class": "elite",
+    "CN": "血王之骨",
+    "Type": "Necromancer Heads",
+    "Code": "nef"
+  },
+
+  "Hand Axe": {
+    "Class": "normal",
+    "CN": "手斧",
+    "Type": "Axe",
+    "Code": "hax"
+  },
+  "Hatchet": {
+    "Class": "exceptional",
+    "CN": "小斧",
+    "Type": "Axe",
+    "Code": "9ha"
+  },
+  "Tomahawk": {
+    "Class": "elite",
+    "CN": "战戟",
+    "Type": "Axe",
+    "Code": "7ha"
+  },
+  "Axe": {
+    "Class": "normal",
+    "CN": "斧",
+    "Type": "Axe",
+    "Code": "axe"
+  },
+  "Cleaver": {
+    "Class": "exceptional",
+    "CN": "切肉斧",
+    "Type": "Axe",
+    "Code": "9ax"
+  },
+  "Small Crescent": {
+    "Class": "elite",
+    "CN": "弯月斧",
+    "Type": "Axe",
+    "Code": "7ax"
+  },
+  "Double Axe": {
+    "Class": "normal",
+    "CN": "双刃斧",
+    "Type": "Axe",
+    "Code": "2ax"
+  },
+  "Twin Axe": {
+    "Class": "exceptional",
+    "CN": "强化双斧",
+    "Type": "Axe",
+    "Code": "92a"
+  },
+  "Ettin Axe": {
+    "Class": "elite",
+    "CN": "双头斧",
+    "Type": "Axe",
+    "Code": "72a"
+  },
+  "Military Pick": {
+    "Class": "normal",
+    "CN": "军用锹",
+    "Type": "Axe",
+    "Code": "mpi"
+  },
+  "Crowbill": {
+    "Class": "exceptional",
+    "CN": "喙钳",
+    "Type": "Axe",
+    "Code": "9mp"
+  },
+  "War Spike": {
+    "Class": "elite",
+    "CN": "战刺",
+    "Type": "Axe",
+    "Code": "7mp"
+  },
+  "War Axe": {
+    "Class": "normal",
+    "CN": "巨战斧",
+    "Type": "Axe",
+    "Code": "wax"
+  },
+  "Naga": {
+    "Class": "exceptional",
+    "CN": "纳卡",
+    "Type": "Axe",
+    "Code": "9wa"
+  },
+  "Berserker Axe": {
+    "Class": "elite",
+    "CN": "狂战士斧",
+    "Type": "Axe",
+    "Code": "7wa"
+  },
+  "Large Axe": {
+    "Class": "normal",
+    "CN": "巨斧",
+    "Type": "Axe",
+    "Code": "lax"
+  },
+  "Military Axe": {
+    "Class": "exceptional",
+    "CN": "军斧",
+    "Type": "Axe",
+    "Code": "9la"
+  },
+  "Feral Axe": {
+    "Class": "elite",
+    "CN": "猛禽斧",
+    "Type": "Axe",
+    "Code": "7la"
+  },
+  "Broad Axe": {
+    "Class": "normal",
+    "CN": "阔斧",
+    "Type": "Axe",
+    "Code": "bax"
+  },
+  "Bearded Axe": {
+    "Class": "exceptional",
+    "CN": "钩斧",
+    "Type": "Axe",
+    "Code": "9ba"
+  },
+  "Silver-edged Axe": {
+    "Class": "elite",
+    "CN": "银刃斧",
+    "Type": "Axe",
+    "Code": "7ba"
+  },
+  "Battle Axe": {
+    "Class": "normal",
+    "CN": "战斗斧",
+    "Type": "Axe",
+    "Code": "btx"
+  },
+  "Tabar": {
+    "Class": "exceptional",
+    "CN": "战斗斧",
+    "Type": "Axe",
+    "Code": "9bt"
+  },
+  "Decapitator": {
+    "Class": "elite",
+    "CN": "斩首斧",
+    "Type": "Axe",
+    "Code": "7bt"
+  },
+  "Great Axe": {
+    "Class": "normal",
+    "CN": "卓越之斧",
+    "Type": "Axe",
+    "Code": "gax"
+  },
+  "Gothic Axe": {
+    "Class": "exceptional",
+    "CN": "哥德之斧",
+    "Type": "Axe",
+    "Code": "9ga"
+  },
+  "Champion Axe": {
+    "Class": "elite",
+    "CN": "豪杰斧",
+    "Type": "Axe",
+    "Code": "7ga"
+  },
+  "Giant Axe": {
+    "Class": "normal",
+    "CN": "大斧",
+    "Type": "Axe",
+    "Code": "gix"
+  },
+  "Ancient Axe": {
+    "Class": "exceptional",
+    "CN": "古代之斧",
+    "Type": "Axe",
+    "Code": "9gi"
+  },
+  "Glorious Axe": {
+    "Class": "elite",
+    "CN": "荣光之斧",
+    "Type": "Axe",
+    "Code": "7gi"
+  },
+
+  "Short Sword": {
+    "Class": "normal",
+    "CN": "短剑",
+    "Type": "Sword",
+    "Code": "ssd"
+  },
+  "Gladius": {
+    "Class": "exceptional",
+    "CN": "羅馬短劍",
+    "Type": "Sword",
+    "Code": "9ss"
+  },
+  "Falcata": {
+    "Class": "elite",
+    "CN": "短剑",
+    "Type": "Sword",
+    "Code": "7ss"
+  },
+  "Scimitar": {
+    "Class": "normal",
+    "CN": "弯刀",
+    "Type": "Sword",
+    "Code": "scm"
+  },
+  "Cutlass": {
+    "Class": "exceptional",
+    "CN": "微彎劍",
+    "Type": "Sword",
+    "Code": "9sm"
+  },
+  "Ataghan": {
+    "Class": "elite",
+    "CN": "土耳其剑",
+    "Type": "Sword",
+    "Code": "7sm"
+  },
+  "Saber": {
+    "Class": "normal",
+    "CN": "军刀",
+    "Type": "Sword",
+    "Code": "sbr"
+  },
+  "Shamshir": {
+    "Class": "exceptional",
+    "CN": "虛偽之刃",
+    "Type": "Sword",
+    "Code": "9sb"
+  },
+  "Elegant Blade": {
+    "Class": "elite",
+    "CN": "优雅之剑",
+    "Type": "Sword",
+    "Code": "7sb"
+  },
+  "Falchion": {
+    "Class": "normal",
+    "CN": "弯形大刀",
+    "Type": "Sword",
+    "Code": "flc"
+  },
+  "Tulwar": {
+    "Class": "exceptional",
+    "CN": "圓月彎刀",
+    "Type": "Sword",
+    "Code": "9fc"
+  },
+  "Hydra Edge": {
+    "Class": "elite",
+    "CN": "九头蛇刃",
+    "Type": "Sword",
+    "Code": "7fc"
+  },
+  "Crystal Sword": {
+    "Class": "normal",
+    "CN": "水晶剑",
+    "Type": "Sword",
+    "Code": "crs"
+  },
+  "Dimensional Blade": {
+    "Class": "exceptional",
+    "CN": "空間之刃",
+    "Type": "Sword",
+    "Code": "9cr"
+  },
+  "Phase Blade": {
+    "Class": "elite",
+    "CN": "幻化之刃",
+    "Type": "Sword",
+    "Code": "7cr"
+  },
+  "Broad Sword": {
+    "Class": "normal",
+    "CN": "阔剑",
+    "Type": "Sword",
+    "Code": "bsd"
+  },
+  "Battle Sword": {
+    "Class": "exceptional",
+    "CN": "戰鬥劍",
+    "Type": "Sword",
+    "Code": "9bs"
+  },
+  "Conquest Sword": {
+    "Class": "elite",
+    "CN": "征服之剑",
+    "Type": "Sword",
+    "Code": "7bs"
+  },
+  "Long Sword": {
+    "Class": "normal",
+    "CN": "长剑",
+    "Type": "Sword",
+    "Code": "lsd"
+  },
+  "Rune Sword": {
+    "Class": "exceptional",
+    "CN": "符文劍",
+    "Type": "Sword",
+    "Code": "9ls"
+  },
+  "Cryptic Sword": {
+    "Class": "elite",
+    "CN": "神秘之剑",
+    "Type": "Sword",
+    "Code": "7ls"
+  },
+  "War Sword": {
+    "Class": "normal",
+    "CN": "巨战之剑",
+    "Type": "Sword",
+    "Code": "wsd"
+  },
+  "Ancient Sword": {
+    "Class": "exceptional",
+    "CN": "古代之劍",
+    "Type": "Sword",
+    "Code": "9wd"
+  },
+  "Mythical Sword": {
+    "Class": "elite",
+    "CN": "秘仪之剑",
+    "Type": "Sword",
+    "Code": "7wd"
+  },
+  "Two-Handed Sword": {
+    "Class": "normal",
+    "CN": "双手剑",
+    "Type": "Sword",
+    "Code": "2hs"
+  },
+  "Espandon": {
+    "Class": "exceptional",
+    "CN": "斬鐵劍",
+    "Type": "Sword",
+    "Code": "92h"
+  },
+  "Legend Sword": {
+    "Class": "elite",
+    "CN": "传说之剑",
+    "Type": "Sword",
+    "Code": "72h"
+  },
+  "Claymore": {
+    "Class": "normal",
+    "CN": "双刃大刀",
+    "Type": "Sword",
+    "Code": "clm"
+  },
+  "Dacian Falx": {
+    "Class": "exceptional",
+    "CN": "雙刃鎌",
+    "Type": "Sword",
+    "Code": "9cm"
+  },
+  "Highland Blade": {
+    "Class": "elite",
+    "CN": "高地之剑",
+    "Type": "Sword",
+    "Code": "7cm"
+  },
+  "Giant Sword": {
+    "Class": "normal",
+    "CN": "大剑",
+    "Type": "Sword",
+    "Code": "gis"
+  },
+  "Tusk Sword": {
+    "Class": "exceptional",
+    "CN": "長牙劍",
+    "Type": "Sword",
+    "Code": "9gs"
+  },
+  "Balrog Blade": {
+    "Class": "elite",
+    "CN": "炎魔之刃",
+    "Type": "Sword",
+    "Code": "7gs"
+  },
+  "Bastard Sword": {
+    "Class": "normal",
+    "CN": "巨剑",
+    "Type": "Sword",
+    "Code": "bsw"
+  },
+  "Gothic Sword": {
+    "Class": "exceptional",
+    "CN": "哥德劍",
+    "Type": "Sword",
+    "Code": "9b9"
+  },
+  "Champion Sword": {
+    "Class": "elite",
+    "CN": "冠軍之劍",
+    "Type": "Sword",
+    "Code": "7b7"
+  },
+  "Flamberge": {
+    "Class": "normal",
+    "CN": "双手饰剑",
+    "Type": "Sword",
+    "Code": "flb"
+  },
+  "Zweihander": {
+    "Class": "exceptional",
+    "CN": "韓瑞德之劍",
+    "Type": "Sword",
+    "Code": "9fb"
+  },
+  "Colossal Sword": {
+    "Class": "elite",
+    "CN": "巨神之剑",
+    "Type": "Sword",
+    "Code": "7fb"
+  },
+  "Great Sword": {
+    "Class": "normal",
+    "CN": "卓越之剑",
+    "Type": "Sword",
+    "Code": "gsd"
+  },
+  "Executioner Sword": {
+    "Class": "exceptional",
+    "CN": "死刑之劍",
+    "Type": "Sword",
+    "Code": "9gd"
+  },
+  "Colossus Blade": {
+    "Class": "elite",
+    "CN": "巨神之刃",
+    "Type": "Sword",
+    "Code": "7gd"
+  },
+
+  "Javelin": {
+    "Class": "normal",
+    "CN": "标枪",
+    "Type": "Javelin",
+    "Code": "jav"
+  },
+  "War Javelin": {
+    "Class": "exceptional",
+    "CN": "巨战标枪",
+    "Type": "Javelin",
+    "Code": "9ja"
+  },
+  "Hyperion Javelin": {
+    "Class": "elite",
+    "CN": "亥伯龙之枪",
+    "Type": "Javelin",
+    "Code": "7ja"
+  },
+  "Pilum": {
+    "Class": "normal",
+    "CN": "短标枪",
+    "Type": "Javelin",
+    "Code": "pil"
+  },
+  "Great Pilum": {
+    "Class": "exceptional",
+    "CN": "卓越标枪",
+    "Type": "Javelin",
+    "Code": "9pi"
+  },
+  "Stygian Pilum": {
+    "Class": "elite",
+    "CN": "冥河标枪",
+    "Type": "Javelin",
+    "Code": "7pi"
+  },
+  "Short Spear": {
+    "Class": "normal",
+    "CN": "短矛",
+    "Type": "Javelin",
+    "Code": "ssp"
+  },
+  "Simbilan": {
+    "Class": "exceptional",
+    "CN": "锐矛",
+    "Type": "Javelin",
+    "Code": "9s9"
+  },
+  "Balrog Spear": {
+    "Class": "elite",
+    "CN": "炎魔之矛",
+    "Type": "Javelin",
+    "Code": "7s7"
+  },
+  "Glaive": {
+    "Class": "normal",
+    "CN": "大长刀",
+    "Type": "Javelin",
+    "Code": "glv"
+  },
+  "Spiculum": {
+    "Class": "exceptional",
+    "CN": "阔针长矛",
+    "Type": "Javelin",
+    "Code": "9gl"
+  },
+  "Ghost Glaive": {
+    "Class": "elite",
+    "CN": "鬼魂尖枪",
+    "Type": "Javelin",
+    "Code": "7gl"
+  },
+  "Throwing Spear": {
+    "Class": "normal",
+    "CN": "飞矛",
+    "Type": "Javelin",
+    "Code": "tsp"
+  },
+  "Harpoon": {
+    "Class": "exceptional",
+    "CN": "鱼叉",
+    "Type": "Javelin",
+    "Code": "9ts"
+  },
+  "Winged Harpoon": {
+    "Class": "elite",
+    "CN": "翼鱼叉",
+    "Type": "Javelin",
+    "Code": "7ts"
+  },
+
+  "Bardiche": {
+    "Class": "normal",
+    "CN": "大砍刀",
+    "Type": "Polearms",
+    "Code": "bar"
+  },
+  "Lochaber Axe": {
+    "Class": "exceptional",
+    "CN": "罗佳伯斧",
+    "Type": "Polearms",
+    "Code": "9b7"
+  },
+  "Ogre Axe": {
+    "Class": "elite",
+    "CN": "食人魔之斧",
+    "Type": "Polearms",
+    "Code": "7o7"
+  },
+  "Voulge": {
+    "Class": "normal",
+    "CN": "钩镰枪",
+    "Type": "Polearms",
+    "Code": "vou"
+  },
+  "Bill": {
+    "Class": "exceptional",
+    "CN": "比尔长刀",
+    "Type": "Polearms",
+    "Code": "9vo"
+  },
+  "Colossus Voulge": {
+    "Class": "elite",
+    "CN": "巨神之斧",
+    "Type": "Polearms",
+    "Code": "7vo"
+  },
+  "Scythe": {
+    "Class": "normal",
+    "CN": "镰刀",
+    "Type": "Polearms",
+    "Code": "scy"
+  },
+  "Battle Scythe": {
+    "Class": "exceptional",
+    "CN": "战斗镰刀",
+    "Type": "Polearms",
+    "Code": "9s8"
+  },
+  "Thresher": {
+    "Class": "elite",
+    "CN": "锐利之斧",
+    "Type": "Polearms",
+    "Code": "7s8"
+  },
+  "Poleaxe": {
+    "Class": "normal",
+    "CN": "长柄战斧",
+    "Type": "Polearms",
+    "Code": "pax"
+  },
+  "Partizan": {
+    "Class": "exceptional",
+    "CN": "战戟",
+    "Type": "Polearms",
+    "Code": "9pa"
+  },
+  "Cryptic Axe": {
+    "Class": "elite",
+    "CN": "神秘之斧",
+    "Type": "Polearms",
+    "Code": "7pa"
+  },
+  "Halberd": {
+    "Class": "normal",
+    "CN": "长戟",
+    "Type": "Polearms",
+    "Code": "hal"
+  },
+  "Bec-de-Corbin": {
+    "Class": "exceptional",
+    "CN": "双锋战戟",
+    "Type": "Polearms",
+    "Code": "9h9"
+  },
+  "Great Poleaxe": {
+    "Class": "elite",
+    "CN": "巨长斧",
+    "Type": "Polearms",
+    "Code": "7h7"
+  },
+  "War Scythe": {
+    "Class": "normal",
+    "CN": "巨战镰刀",
+    "Type": "Polearms",
+    "Code": "wsc"
+  },
+  "Grim Scythe": {
+    "Class": "exceptional",
+    "CN": "残酷镰刀",
+    "Type": "Polearms",
+    "Code": "9wc"
+  },
+  "Giant Thresher": {
+    "Class": "elite",
+    "CN": "鲛尾巨斧",
+    "Type": "Polearms",
+    "Code": "7wc"
+  },
+
+  "Wand": {
+    "Class": "normal",
+    "CN": "法杖",
+    "Type": "Wands",
+    "Code": "wnd"
+  },
+  "Burnt Wand": {
+    "Class": "exceptional",
+    "CN": "燒焦之杖",
+    "Type": "Wands",
+    "Code": "9wn"
+  },
+  "Polished Wand": {
+    "Class": "elite",
+    "CN": "洗练法杖",
+    "Type": "Wands",
+    "Code": "7wn"
+  },
+  "Yew Wand": {
+    "Class": "normal",
+    "CN": "紫杉之杖",
+    "Type": "Wands",
+    "Code": "ywn"
+  },
+  "Petrified Wand": {
+    "Class": "exceptional",
+    "CN": "净化之杖",
+    "Type": "Wands",
+    "Code": "9yw"
+  },
+  "Ghost Wand": {
+    "Class": "elite",
+    "CN": "鬼魂之杖",
+    "Type": "Wands",
+    "Code": "7yw"
+  },
+  "Bone Wand": {
+    "Class": "normal",
+    "CN": "骨杖",
+    "Type": "Wands",
+    "Code": "bwn"
+  },
+  "Tomb Wand": {
+    "Class": "exceptional",
+    "CN": "古墓之杖",
+    "Type": "Wands",
+    "Code": "9bw"
+  },
+  "Lich Wand": {
+    "Class": "elite",
+    "CN": "巫妖法杖",
+    "Type": "Wands",
+    "Code": "7bw"
+  },
+  "Grim Wand": {
+    "Class": "normal",
+    "CN": "残酷之杖",
+    "Type": "Wands",
+    "Code": "gwn"
+  },
+  "Grave Wand": {
+    "Class": "exceptional",
+    "CN": "墓地之杖",
+    "Type": "Wands",
+    "Code": "9gw"
+  },
+  "Unearthed Wand": {
+    "Class": "elite",
+    "CN": "破隐法杖",
+    "Type": "Wands",
+    "Code": "7gw"
+  },
+
+  "Katar": {
+    "Class": "normal",
+    "CN": "拳剑",
+    "Type": "Assassin Katars",
+    "Code": "ktr"
+  },
+  "Quhab": {
+    "Class": "exceptional",
+    "CN": "格斗刃",
+    "Type": "Assassin Katars",
+    "Code": "9ar"
+  },
+  "Suwayyah": {
+    "Class": "elite",
+    "CN": "近身刃",
+    "Type": "Assassin Katars",
+    "Code": "7ar"
+  },
+  "Wrist Blade": {
+    "Class": "normal",
+    "CN": "腕刀",
+    "Type": "Assassin Katars",
+    "Code": "wrb"
+  },
+  "Wrist Spike": {
+    "Class": "exceptional",
+    "CN": "腕刺",
+    "Type": "Assassin Katars",
+    "Code": "9wb"
+  },
+  "Wrist Sword": {
+    "Class": "elite",
+    "CN": "腕剑",
+    "Type": "Assassin Katars",
+    "Code": "7wb"
+  },
+  "Hatchet Hands": {
+    "Class": "normal",
+    "CN": "斧手",
+    "Type": "Assassin Katars",
+    "Code": "axf"
+  },
+  "Fascia": {
+    "Class": "exceptional",
+    "CN": "格斗爪",
+    "Type": "Assassin Katars",
+    "Code": "9xf"
+  },
+  "War Fist": {
+    "Class": "elite",
+    "CN": "战拳",
+    "Type": "Assassin Katars",
+    "Code": "7xf"
+  },
+  "Cestus": {
+    "Class": "normal",
+    "CN": "腰刀",
+    "Type": "Assassin Katars",
+    "Code": "ces"
+  },
+  "Hand Scythe": {
+    "Class": "exceptional",
+    "CN": "手镰",
+    "Type": "Assassin Katars",
+    "Code": "9cs"
+  },
+  "Battle Cestus": {
+    "Class": "elite",
+    "CN": "斗腰刀",
+    "Type": "Assassin Katars",
+    "Code": "7cs"
+  },
+  "Claws": {
+    "Class": "normal",
+    "CN": "爪",
+    "Type": "Assassin Katars",
+    "Code": "clw"
+  },
+  "Greater Claws": {
+    "Class": "exceptional",
+    "CN": "巨爪",
+    "Type": "Assassin Katars",
+    "Code": "9lw"
+  },
+  "Feral Claws": {
+    "Class": "elite",
+    "CN": "猛禽爪",
+    "Type": "Assassin Katars",
+    "Code": "7lw"
+  },
+  "Blade Talons": {
+    "Class": "normal",
+    "CN": "刃爪",
+    "Type": "Assassin Katars",
+    "Code": "btl"
+  },
+  "Greater Talons": {
+    "Class": "exceptional",
+    "CN": "巨鹰爪",
+    "Type": "Assassin Katars",
+    "Code": "9tw"
+  },
+  "Runic Talons": {
+    "Class": "elite",
+    "CN": "符纹爪",
+    "Type": "Assassin Katars",
+    "Code": "7tw"
+  },
+  "Scissors Katar": {
+    "Class": "normal",
+    "CN": "剪咬刀",
+    "Type": "Assassin Katars",
+    "Code": "skr"
+  },
+  "Scissors Quhab": {
+    "Class": "exceptional",
+    "CN": "格斗剪",
+    "Type": "Assassin Katars",
+    "Code": "9qr"
+  },
+  "Scissors Suwayyah": {
+    "Class": "elite",
+    "CN": "近身剪",
+    "Type": "Assassin Katars",
+    "Code": "7qr"
+  },
+
+  "Eagle Orb": {
+    "Class": "normal",
+    "CN": "鹰之法珠",
+    "Type": "Sorceress Orbs",
+    "Code": "ob1"
+  },
+  "Glowing Orb": {
+    "Class": "exceptional",
+    "CN": "灵光法珠",
+    "Type": "Sorceress Orbs",
+    "Code": "ob6"
+  },
+  "Heavenly Stone": {
+    "Class": "elite",
+    "CN": "天堂之石",
+    "Type": "Sorceress Orbs",
+    "Code": "obb"
+  },
+  "Sacred Globe": {
+    "Class": "normal",
+    "CN": "神圣天球",
+    "Type": "Sorceress Orbs",
+    "Code": "ob2"
+  },
+  "Crystalline Globe": {
+    "Class": "exceptional",
+    "CN": "水晶天球",
+    "Type": "Sorceress Orbs",
+    "Code": "ob7"
+  },
+  "Eldritch Orb": {
+    "Class": "elite",
+    "CN": "怪异之球",
+    "Type": "Sorceress Orbs",
+    "Code": "obc"
+  },
+  "Smoked Sphere": {
+    "Class": "normal",
+    "CN": "烟雾之球",
+    "Type": "Sorceress Orbs",
+    "Code": "ob3"
+  },
+  "Cloudy Sphere": {
+    "Class": "exceptional",
+    "CN": "云雾之球",
+    "Type": "Sorceress Orbs",
+    "Code": "ob8"
+  },
+  "Demon Heart": {
+    "Class": "elite",
+    "CN": "恶魔之心",
+    "Type": "Sorceress Orbs",
+    "Code": "obd"
+  },
+  "Clasped Orb": {
+    "Class": "normal",
+    "CN": "握扣法珠",
+    "Type": "Sorceress Orbs",
+    "Code": "ob4"
+  },
+  "Sparkling Ball": {
+    "Class": "exceptional",
+    "CN": "闪耀之珠",
+    "Type": "Sorceress Orbs",
+    "Code": "ob9"
+  },
+  "Vortex Orb": {
+    "Class": "elite",
+    "CN": "漩涡球",
+    "Type": "Sorceress Orbs",
+    "Code": "obe"
+  },
+  "Jared's Stone": {
+    "Class": "normal",
+    "CN": "杰瑞德之石",
+    "Type": "Sorceress Orbs",
+    "Code": "ob5"
+  },
+  "Swirling Crystal": {
+    "Class": "exceptional",
+    "CN": "涡流水晶",
+    "Type": "Sorceress Orbs",
+    "Code": "oba"
+  },
+  "Dimensional Shard": {
+    "Class": "elite",
+    "CN": "次元碎片",
+    "Type": "Sorceress Orbs",
+    "Code": "obf"
+  },
+
+  "Stag Bow": {
+    "Class": "normal",
+    "CN": "男性之弓",
+    "Type": "Amazon Bow",
+    "Code": "am1"
+  },
+  "Ashwood Bow": {
+    "Class": "exceptional",
+    "CN": "灰木之弓",
+    "Type": "Amazon Bow",
+    "Code": "am6"
+  },
+  "Matriarchal Bow": {
+    "Class": "elite",
+    "CN": "女族长之弓",
+    "Type": "Amazon Bow",
+    "Code": "amb"
+  },
+  "Reflex Bow": {
+    "Class": "normal",
+    "CN": "反射之弓",
+    "Type": "Amazon Bow",
+    "Code": "am2"
+  },
+  "Ceremonial Bow": {
+    "Class": "exceptional",
+    "CN": "祭典之弓",
+    "Type": "Amazon Bow",
+    "Code": "am7"
+  },
+  "Grand Matron Bow": {
+    "Class": "elite",
+    "CN": "大院长之弓",
+    "Type": "Amazon Bow",
+    "Code": "amc"
+  },
+  "Maiden Spear": {
+    "Class": "normal",
+    "CN": "女士之矛",
+    "Type": "Amazon Weapons",
+    "Code": "am3"
+  },
+  "Ceremonial Spear": {
+    "Class": "exceptional",
+    "CN": "祭典之矛",
+    "Type": "Amazon Weapons",
+    "Code": "am8"
+  },
+  "Matriarchal Spear": {
+    "Class": "elite",
+    "CN": "女族长之矛",
+    "Type": "Amazon Weapons",
+    "Code": "amd"
+  },
+  "Maiden Pike": {
+    "Class": "normal",
+    "CN": "女士长矛",
+    "Type": "Amazon Weapons",
+    "Code": "am4"
+  },
+  "Ceremonial Pike": {
+    "Class": "exceptional",
+    "CN": "祭典长矛",
+    "Type": "Amazon Weapons",
+    "Code": "am9"
+  },
+  "Matriarchal Pike": {
+    "Class": "elite",
+    "CN": "女族长之长矛",
+    "Type": "Amazon Weapons",
+    "Code": "ame"
+  },
+  "Maiden Javelin": {
+    "Class": "normal",
+    "CN": "女士标枪",
+    "Type": "Amazon Weapons",
+    "Code": "am5"
+  },
+  "Ceremonial Javelin": {
+    "Class": "exceptional",
+    "CN": "祭典标枪",
+    "Type": "Amazon Weapons",
+    "Code": "ama"
+  },
+  "Matriarchal Javelin": {
+    "Class": "elite",
+    "CN": "女族长之标枪",
+    "Type": "Amazon Weapons",
+    "Code": "amf"
+  },
+
+  "Dagger": {
+    "Class": "normal",
+    "CN": "匕首",
+    "Type": "Dagger",
+    "Code": "dgr"
+  },
+  "Poignard": {
+    "Class": "exceptional",
+    "CN": "锐匕",
+    "Type": "Dagger",
+    "Code": "9dg"
+  },
+  "Bone Knife": {
+    "Class": "elite",
+    "CN": "骸骨小刀",
+    "Type": "Dagger",
+    "Code": "7dg"
+  },
+  "Dirk": {
+    "Class": "normal",
+    "CN": "长匕首",
+    "Type": "Dagger",
+    "Code": "dir"
+  },
+  "Rondel": {
+    "Class": "exceptional",
+    "CN": "诗歌匕首",
+    "Type": "Dagger",
+    "Code": "9di"
+  },
+  "Mithral Point": {
+    "Class": "elite",
+    "CN": "秘银小刀",
+    "Type": "Dagger",
+    "Code": "7di"
+  },
+  "Kriss": {
+    "Class": "normal",
+    "CN": "波形刀",
+    "Type": "Dagger",
+    "Code": "kri"
+  },
+  "Cinquedeas": {
+    "Class": "exceptional",
+    "CN": "强波刀",
+    "Type": "Dagger",
+    "Code": "9kr"
+  },
+  "Fanged Knife": {
+    "Class": "elite",
+    "CN": "齿缘小刀",
+    "Type": "Dagger",
+    "Code": "7kr"
+  },
+  "Blade": {
+    "Class": "normal",
+    "CN": "短刀",
+    "Type": "Dagger",
+    "Code": "bld"
+  },
+  "Stilleto": {
+    "Class": "exceptional",
+    "CN": "小剑",
+    "Type": "Dagger",
+    "Code": "9bl"
+  },
+  "Legend Spike": {
+    "Class": "elite",
+    "CN": "传说尖刺",
+    "Type": "Dagger",
+    "Code": "7bl"
+  },
+  "Club": {
+    "Class": "normal",
+    "CN": "木棒",
+    "Type": "Maces",
+    "Code": "clb"
+  },
+  "Cudgel": {
+    "Class": "exceptional",
+    "CN": "棍棒",
+    "Type": "Maces",
+    "Code": "9cl"
+  },
+  "Truncheon": {
+    "Class": "elite",
+    "CN": "战仪杖",
+    "Type": "Maces",
+    "Code": "7cl"
+  },
+  "Spiked Club": {
+    "Class": "normal",
+    "CN": "狼牙棒",
+    "Type": "Maces",
+    "Code": "spc"
+  },
+  "Barbed Club": {
+    "Class": "exceptional",
+    "CN": "倒钩槌",
+    "Type": "Maces",
+    "Code": "9sp"
+  },
+  "Tyrant Club": {
+    "Class": "elite",
+    "CN": "暴君之棒",
+    "Type": "Maces",
+    "Code": "7sp"
+  },
+  "Mace": {
+    "Class": "normal",
+    "CN": "钉头锤",
+    "Type": "Maces",
+    "Code": "mac"
+  },
+  "Flanged Mace": {
+    "Class": "exceptional",
+    "CN": "凸缘钉头锤",
+    "Type": "Maces",
+    "Code": "9ma"
+  },
+  "Reinforced Mace": {
+    "Class": "elite",
+    "CN": "强化钉头锤",
+    "Type": "Maces",
+    "Code": "7ma"
+  },
+  "Morning Star": {
+    "Class": "normal",
+    "CN": "流星锤",
+    "Type": "Maces",
+    "Code": "mst"
+  },
+  "Jagged Star": {
+    "Class": "exceptional",
+    "CN": "锯齿流星锤",
+    "Type": "Maces",
+    "Code": "9mt"
+  },
+  "Devil Star": {
+    "Class": "elite",
+    "CN": "恶魔流星锤",
+    "Type": "Maces",
+    "Code": "7mt"
+  },
+  "Flail": {
+    "Class": "normal",
+    "CN": "连枷",
+    "Type": "Maces",
+    "Code": "fla"
+  },
+  "Knout": {
+    "Class": "exceptional",
+    "CN": "铁皮鞭",
+    "Type": "Maces",
+    "Code": "9fl"
+  },
+  "Scourge": {
+    "Class": "elite",
+    "CN": "天罚之锤",
+    "Type": "Maces",
+    "Code": "7fl"
+  },
+  "War Hammer": {
+    "Class": "normal",
+    "CN": "巨战铁槌",
+    "Type": "Maces",
+    "Code": "whm"
+  },
+  "Battle Hammer": {
+    "Class": "exceptional",
+    "CN": "战斗铁槌",
+    "Type": "Maces",
+    "Code": "9wh"
+  },
+  "Legendary Mallet": {
+    "Class": "elite",
+    "CN": "传说之锤",
+    "Type": "Maces",
+    "Code": "7wh"
+  },
+  "Maul": {
+    "Class": "normal",
+    "CN": "大木棍",
+    "Type": "Maces",
+    "Code": "mau"
+  },
+  "War Club": {
+    "Class": "exceptional",
+    "CN": "巨战木棍",
+    "Type": "Maces",
+    "Code": "9m9"
+  },
+  "Ogre Maul": {
+    "Class": "elite",
+    "CN": "食人魔之槌",
+    "Type": "Maces",
+    "Code": "7m7"
+  },
+  "Great Maul": {
+    "Class": "normal",
+    "CN": "卓越巨棍",
+    "Type": "Maces",
+    "Code": "gma"
+  },
+  "Martel de Fer": {
+    "Class": "exceptional",
+    "CN": "战槌",
+    "Type": "Maces",
+    "Code": "9gm"
+  },
+  "Thunder Maul": {
+    "Class": "elite",
+    "CN": "雷槌",
+    "Type": "Maces",
+    "Code": "7gm"
+  },
+  "Throwing Knife": {
+    "Class": "normal",
+    "CN": "飞刀",
+    "Type": "Throwing",
+    "Code": "tkf"
+  },
+  "Battle Dart": {
+    "Class": "exceptional",
+    "CN": "战斗飞镖",
+    "Type": "Throwing",
+    "Code": "9tk"
+  },
+  "Flying Knife": {
+    "Class": "elite",
+    "CN": "飞刀",
+    "Type": "Throwing",
+    "Code": "7tk"
+  },
+  "Throwing Axe": {
+    "Class": "normal",
+    "CN": "飞斧",
+    "Type": "Throwing",
+    "Code": "tax"
+  },
+  "Francisca": {
+    "Class": "exceptional",
+    "CN": "法兰飞斧",
+    "Type": "Throwing",
+    "Code": "9ta"
+  },
+  "Flying Axe": {
+    "Class": "elite",
+    "CN": "飞斧",
+    "Type": "Throwing",
+    "Code": "7ta"
+  },
+  "Balanced Knife": {
+    "Class": "normal",
+    "CN": "平衡小刀",
+    "Type": "Throwing",
+    "Code": "bkf"
+  },
+  "War Dart": {
+    "Class": "exceptional",
+    "CN": "巨战飞镖",
+    "Type": "Throwing",
+    "Code": "9bk"
+  },
+  "Winged Knife": {
+    "Class": "elite",
+    "CN": "翼刀",
+    "Type": "Throwing",
+    "Code": "7bk"
+  },
+  "Balanced Axe": {
+    "Class": "normal",
+    "CN": "平衡斧",
+    "Type": "Throwing",
+    "Code": "bal"
+  },
+  "Hurlbat": {
+    "Class": "exceptional",
+    "CN": "短战戟",
+    "Type": "Throwing",
+    "Code": "9b8"
+  },
+  "Winged Axe": {
+    "Class": "elite",
+    "CN": "翼斧",
+    "Type": "Throwing",
+    "Code": "7b8"
+  },
+  "Scepter": {
+    "Class": "normal",
+    "CN": "权杖",
+    "Type": "Scepters",
+    "Code": "scp"
+  },
+  "Rune Scepter": {
+    "Class": "exceptional",
+    "CN": "符文权杖",
+    "Type": "Scepters",
+    "Code": "9sc"
+  },
+  "Mighty Scepter": {
+    "Class": "elite",
+    "CN": "强威权杖",
+    "Type": "Scepters",
+    "Code": "7sc"
+  },
+  "Grand Scepter": {
+    "Class": "normal",
+    "CN": "雄伟权杖",
+    "Type": "Scepters",
+    "Code": "gsc"
+  },
+  "Holy Water Sprinkler": {
+    "Class": "exceptional",
+    "CN": "圣水喷杖",
+    "Type": "Scepters",
+    "Code": "9qs"
+  },
+  "Seraph Rod": {
+    "Class": "elite",
+    "CN": "炽天使法杖",
+    "Type": "Scepters",
+    "Code": "7qs"
+  },
+  "War Scepter": {
+    "Class": "normal",
+    "CN": "巨战权杖",
+    "Type": "Scepters",
+    "Code": "wsp"
+  },
+  "Divine Scepter": {
+    "Class": "exceptional",
+    "CN": "神属权杖",
+    "Type": "Scepters",
+    "Code": "9ws"
+  },
+  "Caduceus": {
+    "Class": "elite",
+    "CN": "神使之杖",
+    "Type": "Scepters",
+    "Code": "7ws"
+  },
+  "Spear": {
+    "Class": "normal",
+    "CN": "长矛",
+    "Type": "Spears",
+    "Code": "spr"
+  },
+  "War Spear": {
+    "Class": "exceptional",
+    "CN": "巨战长矛",
+    "Type": "Spears",
+    "Code": "9sr"
+  },
+  "Hyperion Spear": {
+    "Class": "elite",
+    "CN": "亥伯龙之矛",
+    "Type": "Spears",
+    "Code": "7sr"
+  },
+  "Trident": {
+    "Class": "normal",
+    "CN": "三叉戟",
+    "Type": "Spears",
+    "Code": "tri"
+  },
+  "Fuscina": {
+    "Class": "exceptional",
+    "CN": "魔鬼之叉",
+    "Type": "Spears",
+    "Code": "9tr"
+  },
+  "Stygian Pike": {
+    "Class": "elite",
+    "CN": "冥河之枪",
+    "Type": "Spears",
+    "Code": "7tr"
+  },
+  "Brandistock": {
+    "Class": "normal",
+    "CN": "叉",
+    "Type": "Spears",
+    "Code": "brn"
+  },
+  "War Fork": {
+    "Class": "exceptional",
+    "CN": "巨战之叉",
+    "Type": "Spears",
+    "Code": "9br"
+  },
+  "Mancatcher": {
+    "Class": "elite",
+    "CN": "刺人枪",
+    "Type": "Spears",
+    "Code": "7br"
+  },
+  "Spetum": {
+    "Class": "normal",
+    "CN": "大战戟",
+    "Type": "Spears",
+    "Code": "spt"
+  },
+  "Yari": {
+    "Class": "exceptional",
+    "CN": "三叉长枪",
+    "Type": "Spears",
+    "Code": "9st"
+  },
+  "Ghost Spear": {
+    "Class": "elite",
+    "CN": "鬼魂之矛",
+    "Type": "Spears",
+    "Code": "7st"
+  },
+  "Pike": {
+    "Class": "normal",
+    "CN": "矛",
+    "Type": "Spears",
+    "Code": "pik"
+  },
+  "Lance": {
+    "Class": "exceptional",
+    "CN": "长枪",
+    "Type": "Spears",
+    "Code": "9p9"
+  },
+  "War Pike": {
+    "Class": "elite",
+    "CN": "战枪",
+    "Type": "Spears",
+    "Code": "7p7"
+  },
+  "Short Staff": {
+    "Class": "normal",
+    "CN": "短棍",
+    "Type": "Staves",
+    "Code": "sst"
+  },
+  "Jo Staff": {
+    "Class": "exceptional",
+    "CN": "乔木棒",
+    "Type": "Staves",
+    "Code": "8ss"
+  },
+  "Walking Stick": {
+    "Class": "elite",
+    "CN": "手杖",
+    "Type": "Staves",
+    "Code": "6ss"
+  },
+  "Long Staff": {
+    "Class": "normal",
+    "CN": "长棍",
+    "Type": "Staves",
+    "Code": "lst"
+  },
+  "Quarterstaff": {
+    "Class": "exceptional",
+    "CN": "六尺棍",
+    "Type": "Staves",
+    "Code": "8ls"
+  },
+  "Stalagmite": {
+    "Class": "elite",
+    "CN": "钟乳石之杖",
+    "Type": "Staves",
+    "Code": "6ls"
+  },
+  "Gnarled Staff": {
+    "Class": "normal",
+    "CN": "多节棍",
+    "Type": "Staves",
+    "Code": "cst"
+  },
+  "Cedar Staff": {
+    "Class": "exceptional",
+    "CN": "杉木之棍",
+    "Type": "Staves",
+    "Code": "8cs"
+  },
+  "Elder Staff": {
+    "Class": "elite",
+    "CN": "长老之杖",
+    "Type": "Staves",
+    "Code": "6cs"
+  },
+  "Battle Staff": {
+    "Class": "normal",
+    "CN": "战斗法杖",
+    "Type": "Staves",
+    "Code": "bst"
+  },
+  "Gothic Staff": {
+    "Class": "exceptional",
+    "CN": "哥德之棍",
+    "Type": "Staves",
+    "Code": "8bs"
+  },
+  "Shillelagh": {
+    "Class": "elite",
+    "CN": "树皮之杖",
+    "Type": "Staves",
+    "Code": "6bs"
+  },
+  "War Staff": {
+    "Class": "normal",
+    "CN": "巨战法杖",
+    "Type": "Staves",
+    "Code": "wst"
+  },
+  "Rune Staff": {
+    "Class": "exceptional",
+    "CN": "符文之棍",
+    "Type": "Staves",
+    "Code": "8ws"
+  },
+  "Archon Staff": {
+    "Class": "elite",
+    "CN": "执政官之杖",
+    "Type": "Staves",
+    "Code": "6ws"
+  },
+  "Short Bow": {
+    "Class": "normal",
+    "CN": "短弓",
+    "Type": "Bows",
+    "Code": "sbw"
+  },
+  "Edge Bow": {
+    "Class": "exceptional",
+    "CN": "锋锐之弓",
+    "Type": "Bows",
+    "Code": "8sb"
+  },
+  "Spider Bow": {
+    "Class": "elite",
+    "CN": "蜘蛛弓",
+    "Type": "Bows",
+    "Code": "6sb"
+  },
+  "Hunter's Bow": {
+    "Class": "normal",
+    "CN": "猎弓",
+    "Type": "Bows",
+    "Code": "hbw"
+  },
+  "Razor Bow": {
+    "Class": "exceptional",
+    "CN": "剃刀之弓",
+    "Type": "Bows",
+    "Code": "8hb"
+  },
+  "Blade Bow": {
+    "Class": "elite",
+    "CN": "刀锋弓",
+    "Type": "Bows",
+    "Code": "6hb"
+  },
+  "Long Bow": {
+    "Class": "normal",
+    "CN": "长弓",
+    "Type": "Bows",
+    "Code": "lbw"
+  },
+  "Cedar Bow": {
+    "Class": "exceptional",
+    "CN": "杉木弓",
+    "Type": "Bows",
+    "Code": "8lb"
+  },
+  "Shadow Bow": {
+    "Class": "elite",
+    "CN": "阴影弓",
+    "Type": "Bows",
+    "Code": "6lb"
+  },
+  "Composite Bow": {
+    "Class": "normal",
+    "CN": "组合弓",
+    "Type": "Bows",
+    "Code": "cbw"
+  },
+  "Double Bow": {
+    "Class": "exceptional",
+    "CN": "双弓",
+    "Type": "Bows",
+    "Code": "8cb"
+  },
+  "Great Bow": {
+    "Class": "elite",
+    "CN": "巨弓",
+    "Type": "Bows",
+    "Code": "6cb"
+  },
+  "Short Battle Bow": {
+    "Class": "normal",
+    "CN": "短战斗弓",
+    "Type": "Bows",
+    "Code": "sbb"
+  },
+  "Short Siege Bow": {
+    "Class": "exceptional",
+    "CN": "短攻城弓",
+    "Type": "Bows",
+    "Code": "8s8"
+  },
+  "Diamond Bow": {
+    "Class": "elite",
+    "CN": "钻石弓",
+    "Type": "Bows",
+    "Code": "6s7"
+  },
+  "Long Battle Bow": {
+    "Class": "normal",
+    "CN": "长战斗弓",
+    "Type": "Bows",
+    "Code": "lbb"
+  },
+  "Long Siege Bow": {
+    "Class": "exceptional",
+    "CN": "长攻城弓",
+    "Type": "Bows",
+    "Code": "8l8"
+  },
+  "Crusader Bow": {
+    "Class": "elite",
+    "CN": "十字軍之弓",
+    "Type": "Bows",
+    "Code": "6l7"
+  },
+  "Short War Bow": {
+    "Class": "normal",
+    "CN": "短巨战弓",
+    "Type": "Bows",
+    "Code": "swb"
+  },
+  "Rune Bow": {
+    "Class": "exceptional",
+    "CN": "符文之弓",
+    "Type": "Bows",
+    "Code": "8sw"
+  },
+  "Ward Bow": {
+    "Class": "elite",
+    "CN": "庇护之弓",
+    "Type": "Bows",
+    "Code": "6sw"
+  },
+  "Long War Bow": {
+    "Class": "normal",
+    "CN": "长巨战弓",
+    "Type": "Bows",
+    "Code": "lwb"
+  },
+  "Gothic Bow": {
+    "Class": "exceptional",
+    "CN": "哥德弓",
+    "Type": "Bows",
+    "Code": "8lw"
+  },
+  "Hydra Bow": {
+    "Class": "elite",
+    "CN": "九头蛇弓",
+    "Type": "Bows",
+    "Code": "6lw"
+  },
+  "Light Crossbow": {
+    "Class": "normal",
+    "CN": "轻十字弓",
+    "Type": "Crossbows",
+    "Code": "lxb"
+  },
+  "Arbalest": {
+    "Class": "exceptional",
+    "CN": "石弓",
+    "Type": "Crossbows",
+    "Code": "8lx"
+  },
+  "Pellet Bow": {
+    "Class": "elite",
+    "CN": "弹丸弓",
+    "Type": "Crossbows",
+    "Code": "6lx"
+  },
+  "Crossbow": {
+    "Class": "normal",
+    "CN": "十字弓",
+    "Type": "Crossbows",
+    "Code": "mxb"
+  },
+  "Siege Crossbow": {
+    "Class": "exceptional",
+    "CN": "攻城十字弓",
+    "Type": "Crossbows",
+    "Code": "8mx"
+  },
+  "Gorgon Crossbow": {
+    "Class": "elite",
+    "CN": "蛇魔女十字弓",
+    "Type": "Crossbows",
+    "Code": "6mx"
+  },
+  "Heavy Crossbow": {
+    "Class": "normal",
+    "CN": "重十字弓",
+    "Type": "Crossbows",
+    "Code": "hxb"
+  },
+  "Ballista": {
+    "Class": "exceptional",
+    "CN": "弩弓",
+    "Type": "Crossbows",
+    "Code": "8hx"
+  },
+  "Colossus Crossbow": {
+    "Class": "elite",
+    "CN": "巨神十字弓",
+    "Type": "Crossbows",
+    "Code": "6hx"
+  },
+  "Repeating Crossbow": {
+    "Class": "normal",
+    "CN": "连射十字弓",
+    "Type": "Crossbows",
+    "Code": "rxb"
+  },
+  "Chu-Ko-Nu": {
+    "Class": "exceptional",
+    "CN": "巧工弩",
+    "Type": "Crossbows",
+    "Code": "8rx"
+  },
+  "Demon Crossbow": {
+    "Class": "elite",
+    "CN": "恶魔十字弓",
+    "Type": "Crossbows",
+    "Code": "6rx"
+  },
+  "Circlet": {
+    "Class": "normal",
+    "CN": "头环",
+    "Type": "Circlet",
+    "Code": "ci0"
+  },
+  "Coronet": {
+    "Class": "normal",
+    "CN": "宝冠",
+    "Type": "Circlet",
+    "Code": "ci1"
+  },
+  "Tiara": {
+    "Class": "normal",
+    "CN": "三重冠",
+    "Type": "Circlet",
+    "Code": "ci2"
+  },
+  "Diadem": {
+    "Class": "normal",
+    "CN": "权冠",
+    "Type": "Circlet",
+    "Code": "ci3"
+  },
+  "El Rune": {
+    "Class": "normal",
+    "CN": "1# El",
+    "Type": "Rune",
+    "Code": "r01"
+  },
+  "Eld Rune": {
+    "Class": "normal",
+    "CN": "2# Eld",
+    "Type": "Rune",
+    "Code": "r02"
+  },
+  "Tir Rune": {
+    "Class": "normal",
+    "CN": "3# Tir",
+    "Type": "Rune",
+    "Code": "r03"
+  },
+  "Nef Rune": {
+    "Class": "normal",
+    "CN": "4# Nef",
+    "Type": "Rune",
+    "Code": "r04"
+  },
+  "Eth Rune": {
+    "Class": "normal",
+    "CN": "5# Eth",
+    "Type": "Rune",
+    "Code": "r05"
+  },
+  "Ith Rune": {
+    "Class": "normal",
+    "CN": "6# Ith",
+    "Type": "Rune",
+    "Code": "r06"
+  },
+  "Tal Rune": {
+    "Class": "normal",
+    "CN": "7# Tal",
+    "Type": "Rune",
+    "Code": "r07"
+  },
+  "Ral Rune": {
+    "Class": "normal",
+    "CN": "8# Ral",
+    "Type": "Rune",
+    "Code": "r08"
+  },
+  "Ort Rune": {
+    "Class": "normal",
+    "CN": "9# Ort",
+    "Type": "Rune",
+    "Code": "r09"
+  },
+  "Thul Rune": {
+    "Class": "normal",
+    "CN": "10# Thul",
+    "Type": "Rune",
+    "Code": "r10"
+  },
+  "Amn Rune": {
+    "Class": "normal",
+    "CN": "11# Amn",
+    "Type": "Rune",
+    "Code": "r11"
+  },
+  "Sol Rune": {
+    "Class": "normal",
+    "CN": "12# Sol",
+    "Type": "Rune",
+    "Code": "r12"
+  },
+  "Shael Rune": {
+    "Class": "normal",
+    "CN": "13# Shael",
+    "Type": "Rune",
+    "Code": "r13"
+  },
+  "Dol Rune": {
+    "Class": "normal",
+    "CN": "14# Dol",
+    "Type": "Rune",
+    "Code": "r14"
+  },
+  "Hel Rune": {
+    "Class": "normal",
+    "CN": "15# Hel",
+    "Type": "Rune",
+    "Code": "r15"
+  },
+  "Io Rune": {
+    "Class": "normal",
+    "CN": "16# Io",
+    "Type": "Rune",
+    "Code": "r16"
+  },
+  "Lum Rune": {
+    "Class": "normal",
+    "CN": "17# Lum",
+    "Type": "Rune",
+    "Code": "r17"
+  },
+  "Ko Rune": {
+    "Class": "normal",
+    "CN": "18# Ko",
+    "Type": "Rune",
+    "Code": "r18"
+  },
+  "Fal Rune": {
+    "Class": "normal",
+    "CN": "19# Fal",
+    "Type": "Rune",
+    "Code": "r19"
+  },
+  "Lem Rune": {
+    "Class": "normal",
+    "CN": "20# Lem",
+    "Type": "Rune",
+    "Code": "r20"
+  },
+  "Pul Rune": {
+    "Class": "normal",
+    "CN": "21# Pul",
+    "Type": "Rune",
+    "Code": "r21"
+  },
+  "Um Rune": {
+    "Class": "normal",
+    "CN": "22# Um",
+    "Type": "Rune",
+    "Code": "r22"
+  },
+  "Mal Rune": {
+    "Class": "normal",
+    "CN": "23# Mal",
+    "Type": "Rune",
+    "Code": "r23"
+  },
+  "Ist Rune": {
+    "Class": "normal",
+    "CN": "24# Ist",
+    "Type": "Rune",
+    "Code": "r24"
+  },
+  "Gul Rune": {
+    "Class": "normal",
+    "CN": "25# Gul",
+    "Type": "Rune",
+    "Code": "r25"
+  },
+  "Vex Rune": {
+    "Class": "normal",
+    "CN": "26# Vex",
+    "Type": "Rune",
+    "Code": "r26"
+  },
+  "Ohm Rune": {
+    "Class": "normal",
+    "CN": "27# Ohm",
+    "Type": "Rune",
+    "Code": "r27"
+  },
+  "Lo Rune": {
+    "Class": "normal",
+    "CN": "28# Lo",
+    "Type": "Rune",
+    "Code": "r28"
+  },
+  "Sur Rune": {
+    "Class": "normal",
+    "CN": "29# Sur",
+    "Type": "Rune",
+    "Code": "r29"
+  },
+  "Ber Rune": {
+    "Class": "normal",
+    "CN": "30# Ber",
+    "Type": "Rune",
+    "Code": "r30"
+  },
+  "Jah Rune": {
+    "Class": "normal",
+    "CN": "31# Jah",
+    "Type": "Rune",
+    "Code": "r31"
+  },
+  "Cham Rune": {
+    "Class": "normal",
+    "CN": "32# Cham",
+    "Type": "Rune",
+    "Code": "r32"
+  },
+  "Zod Rune": {
+    "Class": "normal",
+    "CN": "33# Zod",
+    "Type": "Rune",
+    "Code": "r33"
+  }
+
+
+}
