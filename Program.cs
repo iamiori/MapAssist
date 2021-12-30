@@ -318,8 +318,8 @@ namespace MapAssist
 
         private static void OnlineJson(object sender, EventArgs e)
         {
-            var request = (HttpWebRequest)WebRequest.Create("http://dsm.iamiori.top:15800/Item_class.json");
-            request.Timeout = 30 * 1000;
+            var request = (HttpWebRequest)WebRequest.Create("https://raw.githubusercontent.com/iamiori/MapAssist/master/Item_class.json");
+            request.Timeout = 10 * 1000;
             request.UserAgent = "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36";
             request.ContentType = "application/x-www-form-urlencoded; charset=UTF-8";
             var result = "";
@@ -334,15 +334,17 @@ namespace MapAssist
                         result = reader.ReadToEnd();
                     }
                 }
+                File.WriteAllText(AppDomain.CurrentDomain.BaseDirectory + "\\Item_class.json", result, new System.Text.UTF8Encoding(false));
+                //MessageBox.Show("download finish, plz restart");
             }
             catch (Exception ex)
             {
                 result = ex.Message.ToString();
             }
 
-            File.WriteAllText(AppDomain.CurrentDomain.BaseDirectory + "\\Item_class.json", result, new System.Text.UTF8Encoding(false));
+            
 
-            MessageBox.Show("download finish, plz restart");
+            
         }
         private static void TrayExit(object sender, EventArgs e)
         {
