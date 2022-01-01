@@ -49,6 +49,9 @@ namespace MapAssist.Types
         private Skill _skill;
         private bool _isPlayerUnit;
         private string _ioriGetStat;
+        public bool _saveItemLog = false;
+
+
         public UnitAny(IntPtr pUnit)
         {
             _pUnit = pUnit;
@@ -121,6 +124,11 @@ namespace MapAssist.Types
                                         var processId = processContext.ProcessId;
                                         Items.LogItem(this, processId);
                                     }
+                                    //else if( (ItemMode)_unitAny.Mode == ItemMode.STORED)
+                                    //{
+                                    //    var processId = processContext.ProcessId;
+                                    //    Items.LogItem(this, processId);
+                                    //}
                                     else if(IsOnCursor())
                                     {
                                         _ioriGetStat = iori_GetStatInfo();
@@ -174,6 +182,7 @@ namespace MapAssist.Types
         public uint[] StateFlags => _stateFlags;
         public List<State> StateList => _stateList;
         public Skill Skill => _skill;
+        public bool SaveItemLog => _saveItemLog;
 
         public bool IsMovable()
         {
@@ -291,6 +300,10 @@ namespace MapAssist.Types
             return false;
             //return itemMode == ItemMode.STORED && itemModeLoc == BodyLoc.HEAD;
         }
+        //public bool IsInSt()
+        //{
+        //    //(StashType)stty == StashType.Personal;
+        //}
         public bool IsOnCursor()
         {
             var itemMode = (ItemMode)_unitAny.Mode;

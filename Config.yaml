@@ -8,7 +8,7 @@ HotkeyConfiguration:
   OpacityUpKey: '('
   OpacityDownKey: ')'
   MouseItemInfoKey: ']'
-  ##ShowUnitInfoKey: '/'
+  ShowUnitInfoKey: '/'
 
 ## PrefetchAreas - Areas to preload so that they're hot and ready as soon as you go to them
 PrefetchAreas:

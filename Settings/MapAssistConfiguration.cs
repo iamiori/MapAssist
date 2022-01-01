@@ -225,6 +225,7 @@ public class GameInfoConfiguration
     [YamlMember(Alias = "LabelFontSize", ApplyNamingConventions = false)]
     public int LabelFontSize { get; set; }
 
+    [YamlMember(Alias = "Enabled", ApplyNamingConventions = false)]
     public bool Enabled { get; set; }
 }
 
@@ -250,3 +251,4 @@ public class ItemLogConfiguration
     [YamlMember(Alias = "LabelFontSize", ApplyNamingConventions = false)]
     public int LabelFontSize { get; set; }
 }
+

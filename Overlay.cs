@@ -178,11 +178,12 @@ namespace MapAssist
                 {
                     MapAssistConfiguration.Loaded.MouseItemInfo.Enabled = !MapAssistConfiguration.Loaded.MouseItemInfo.Enabled;
                 }
-                //if (args.KeyChar == MapAssistConfiguration.Loaded.HotkeyConfiguration.ShowUnitInfoKey)
-                //{
-                //    MapAssistConfiguration.Loaded.ShowUnitInfo.Enabled = !MapAssistConfiguration.Loaded.ShowUnitInfo.Enabled;
-
-                //}
+                if (args.KeyChar == MapAssistConfiguration.Loaded.HotkeyConfiguration.ShowUnitInfoKey)
+                {
+                    
+                    MapAssistConfiguration.Loaded.ShowUnitInfo.Enabled = !MapAssistConfiguration.Loaded.ShowUnitInfo.Enabled;
+                    //Items.CurrentItemLog = Items.ItemLog[GameManager.GetProcessContext().ProcessId];
+                }
 
             }
         }

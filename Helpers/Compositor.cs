@@ -772,7 +772,8 @@ namespace MapAssist.Helpers
                     }
                     
                 }
-                
+                //newname += "[" + (uint)item.ItemData.dwOwnerID + "]";
+
                 gfx.DrawText(font, brush, anchor.Add(0, i * fontHeight), itemLabelExtra + itemSpecialName + newname);
             }
         }

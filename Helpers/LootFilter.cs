@@ -51,6 +51,7 @@ namespace MapAssist.Helpers
                 return false;
             }
             if ((ItemMode)unitAny.Mode == ItemMode.ONCURSOR && MapAssistConfiguration.Loaded.MouseItemInfo.Enabled) { return true; }
+            if ((StashType)unitAny.ItemData.dwOwnerID == StashType.Personal) return true;
 
             //populate a list of filter rules by combining rules from "Any" and the item base name
             //use only one list or the other depending on if "Any" exists
@@ -76,15 +77,22 @@ namespace MapAssist.Helpers
                 var statMet = true;
                 if (item.Stats != null)
                 {
-                    if ((unitAny.ItemData.ItemQuality >= ItemQuality.MAGIC & isID) || unitAny.ItemData.ItemQuality >= ItemQuality.MAGIC)
+                    if ((unitAny.ItemData.ItemQuality >= ItemQuality.MAGIC & isID) || unitAny.ItemData.ItemQuality < ItemQuality.MAGIC)
                     {
                         foreach (var st in item.Stats)
                         {
-                            unitAny.Stats.TryGetValue(st.Key, out var stValue);
-                            if (stValue < st.Value)
+                            if(unitAny.Stats.TryGetValue(st.Key, out var stValue))
+                            {
+                                if (stValue < st.Value)
+                                {
+                                    statMet = false;
+                                }
+                            }
+                            else
                             {
                                 statMet = false;
                             }
+
                         }
 
                     }
